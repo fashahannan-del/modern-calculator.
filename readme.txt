@@ -13,4 +13,4 @@ This project recreates a modern calculator interface using HTML5 and CSS.
 CSS Grid is used to arrange the calculator buttons and create a consistent layout.
 
 GitHub Repository:
-Paste your GitHub link here.
+https://github.com/fashahannan-del/modern-calculaator
